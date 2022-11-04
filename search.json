@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "biostat840-intro-kinnary-shah",
+    "section": "",
+    "text": "This is a Quarto website. hi\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "hi\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "data_analysis.html",
+    "href": "data_analysis.html",
+    "title": "data_analysis",
+    "section": "",
+    "text": "data_analysis"
+  }
+]
