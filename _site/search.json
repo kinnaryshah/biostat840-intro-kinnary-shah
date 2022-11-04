@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "biostat840-intro-kinnary-shah",
     "section": "",
-    "text": "This is a Quarto website. hi\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "print(\"hello!\")\n\n[1] \"hello!\"\n\n\n\nWelcome to my website! My name is Kinnary (kin-uh-ree) Shah. I’m currently a second year PhD candidate in the Biostatistics department at the Johns Hopkins Bloomberg School of Public Health."
   },
   {
     "objectID": "about.html",

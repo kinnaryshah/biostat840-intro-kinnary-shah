@@ -1,7 +1,7 @@
 {
-  "hash": "5e2394687ed2ae684181775655a5d136",
+  "hash": "60ab8097c8286ffd17e3bf816a3c6fe4",
   "result": {
-    "markdown": "---\ntitle: \"biostat840-intro-kinnary-shah\"\n---\n\n\nThis is a Quarto website. hi\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"biostat840-intro-kinnary-shah\"\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(\"hello!\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"hello!\"\n```\n:::\n:::\n\n\n![](photo.jpeg)\n\nWelcome to my website! My name is Kinnary (kin-uh-ree) Shah. I'm currently a second year PhD candidate in the Biostatistics department at the Johns Hopkins Bloomberg School of Public Health.\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
