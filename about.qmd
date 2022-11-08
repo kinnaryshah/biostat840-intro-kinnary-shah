@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-hi
-
-```{r}
-1 + 1
-```
+My name is Kinnary (kin-uh-ree) Shah. I'm currently a second year PhD candidate in the Biostatistics department at the Johns Hopkins Bloomberg School of Public Health. Prior to this program, I completed my Bachelor's degree in Biomathematics and Public Health at Rutgers University - New Brunswick. My research interests lie in genomics data analysis and methods development. As an undergraduate student, I assessed methylation in the Drosophila melanogaster genome using Nanopore sequencing data under the guidance of Dr. Christopher Ellison. I completed several research fellowships at Harvard T.H. Chan School of Public Health, Memorial Sloan Kettering Cancer Center, and the Ralph W. Voorhees Center for Civic Engagement, each of which drew me closer to biostatistics and genomics research. As a PhD student, I am working on methods development of spatial transcriptomics data in collaboration with Dr. Stephanie Hicks.
